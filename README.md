@@ -1,6 +1,6 @@
 # Predict-Hotel-Booking-Cancellation
 
-https://gifer.com/2Yhi?utm_source=https%3A%2F%2Fwww.kaggleusercontent.com%2F&utm_medium=embed-action&utm_campaign=iFRame
+https://i.gifer.com/2Yhi.gif
 
 ## Problem Statement : 
 In the past few years, both the City Hotel and Resort Hotel have experienced significant increases in their cancellation rates. As a result, both hotels are currently facing a range of challenges, such as reduced revenue and underutilized hotel rooms. Therefore, the top priority for both hotels is to reduce their cancellation rates, which will enhance their efficiency in generating revenue.
